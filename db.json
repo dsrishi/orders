@@ -7,7 +7,8 @@
         "phone": "P1"
       },
       "branch": "Colombo",
-      "service": "Dry Cleaning"
+      "service": "Dry Cleaning",
+      "status": "Active"
     },
     {
       "id": "LK2",
@@ -16,7 +17,8 @@
         "phone": "P1"
       },
       "branch": "Kandy",
-      "service": "Wash Only"
+      "service": "Wash Only",
+      "status": "Active"
     },
     {
       "id": "LK3",
@@ -25,7 +27,8 @@
         "phone": "P1"
       },
       "branch": "Kandy",
-      "service": "Wash Only"
+      "service": "Dry Cleaning",
+      "status": "Delivered"
     },
     {
       "id": "LK4",
@@ -33,8 +36,9 @@
         "name": "Ghosh Hills",
         "phone": "P1"
       },
-      "branch": "Kandy",
-      "service": "Wash Only"
+      "branch": "Colombo",
+      "service": "Dry Cleaning",
+      "status": "Active"
     },
     {
       "id": "LK5",
@@ -42,8 +46,9 @@
         "name": "Jones Klein",
         "phone": "P1"
       },
-      "branch": "Kandy",
-      "service": "Wash Only"
+      "branch": "Colombo",
+      "service": "Wash Only",
+      "status": "Active"
     }
   ]
 }
