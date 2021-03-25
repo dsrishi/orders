@@ -10,7 +10,7 @@
       "service": "Dry Cleaning",
       "status": "Active",
       "reference": "Ord_1",
-      "addedBy": "Manager"
+      "addedby": "Manager"
     },
     {
       "id": "LK2",
@@ -22,7 +22,7 @@
       "service": "Wash Only",
       "status": "Active",
       "reference": "Ord_2",
-      "addedBy": "Admin"
+      "addedby": "Admin"
     },
     {
       "id": "LK3",
@@ -34,7 +34,7 @@
       "service": "Dry Cleaning",
       "status": "Delivered",
       "reference": "Ord_3",
-      "addedBy": "Manager"
+      "addedby": "Manager"
     },
     {
       "id": "LK4",
@@ -46,7 +46,7 @@
       "service": "Dry Cleaning",
       "status": "Active",
       "reference": "Ord_4",
-      "addedBy": "Manager"
+      "addedby": "Manager"
     },
     {
       "id": "LK5",
@@ -58,7 +58,7 @@
       "service": "Wash Only",
       "status": "Active",
       "reference": "Ord_5",
-      "addedBy": "Admin"
+      "addedby": "Admin"
     }
   ]
 }
