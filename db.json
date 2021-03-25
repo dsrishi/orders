@@ -1,19 +1,19 @@
 {
   "orders": [
     {
-      "id": "LK12345",
+      "id": "LK1",
       "customer": {
         "name": "John Doe",
-        "phone": "+941234567"
+        "phone": "P2"
       },
       "branch": "Colombo",
       "service": "Dry Cleaning"
     },
     {
-      "id": "LK34567",
+      "id": "LK2",
       "customer": {
         "name": "Sam Anderson",
-        "phone": "+941234567"
+        "phone": "P2"
       },
       "branch": "Kandy",
       "service": "Wash Only"
