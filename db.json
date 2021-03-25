@@ -1,22 +1,13 @@
 {
-  orders: [
+  "orders": [
   {
-    id: "123456",
-    customer: {
-      name: "John Doe",
-      phone: 077134567,
+    "id": "123456",
+    "customer": {
+      "name": "John Doe",
+      "phone": 077134567,
     },
-    branch: "Colombo",
-    service: "Dry Cleaning"
+    "branch": "Colombo",
+    "service": "Dry Cleaning"
   },
-  {
-    id: "123456",
-    customer: {
-      name: "John Doe",
-      phone: 077134567,
-    },
-    branch: "Colombo",
-    service: "Dry Cleaning"
-  }
   ]
 }
