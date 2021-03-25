@@ -1,4 +1,5 @@
-[
+{
+  orders: [
   {
     id: "123456",
     customer: {
@@ -17,4 +18,5 @@
     branch: "Colombo",
     service: "Dry Cleaning"
   }
-]
+  ]
+}
