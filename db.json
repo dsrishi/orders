@@ -1,19 +1,46 @@
 {
   "orders": [
     {
-      "id": 1,
+      "id": "LK1",
       "customer": {
-        "name": "Grunt Style",
-        "phone": "P2"
+        "name": "Adams Baker",
+        "phone": "P1"
       },
       "branch": "Colombo",
       "service": "Dry Cleaning"
     },
     {
-      "id": 2,
+      "id": "LK2",
       "customer": {
-        "name": "Sam Anderson",
-        "phone": "+94123456789"
+        "name": "Clark Davis",
+        "phone": "P1"
+      },
+      "branch": "Kandy",
+      "service": "Wash Only"
+    },
+    {
+      "id": "LK3",
+      "customer": {
+        "name": "Evans Frank",
+        "phone": "P1"
+      },
+      "branch": "Kandy",
+      "service": "Wash Only"
+    },
+    {
+      "id": "LK4",
+      "customer": {
+        "name": "Ghosh Hills",
+        "phone": "P1"
+      },
+      "branch": "Kandy",
+      "service": "Wash Only"
+    },
+    {
+      "id": "LK5",
+      "customer": {
+        "name": "Jones Klein",
+        "phone": "P1"
       },
       "branch": "Kandy",
       "service": "Wash Only"
