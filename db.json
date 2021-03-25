@@ -4,7 +4,7 @@
       "id": "LK1",
       "customer": {
         "name": "Adams Baker",
-        "phone": "P1"
+        "city": "Colombo"
       },
       "branch": "Colombo",
       "service": "Dry Cleaning",
@@ -14,7 +14,7 @@
       "id": "LK2",
       "customer": {
         "name": "Clark Davis",
-        "phone": "P1"
+        "city": "Kandy"
       },
       "branch": "Kandy",
       "service": "Wash Only",
@@ -24,7 +24,7 @@
       "id": "LK3",
       "customer": {
         "name": "Evans Frank",
-        "phone": "P1"
+        "city": "Colombo"
       },
       "branch": "Kandy",
       "service": "Dry Cleaning",
@@ -34,7 +34,7 @@
       "id": "LK4",
       "customer": {
         "name": "Ghosh Hills",
-        "phone": "P1"
+        "city": "Colombo"
       },
       "branch": "Colombo",
       "service": "Dry Cleaning",
@@ -44,7 +44,7 @@
       "id": "LK5",
       "customer": {
         "name": "Jones Klein",
-        "phone": "P1"
+        "city": "Colombo"
       },
       "branch": "Colombo",
       "service": "Wash Only",
