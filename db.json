@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "id": "LK1",
+      "id": 1,
       "customer": {
         "name": "Grunt Style American Reaper 2.0 T-Shirt - Black",
         "phone": "P2"
@@ -10,7 +10,7 @@
       "service": "Dry Cleaning"
     },
     {
-      "id": "LK2",
+      "id": 2,
       "customer": {
         "name": "Sam Anderson",
         "phone": "+94123456789"
