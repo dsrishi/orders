@@ -8,7 +8,8 @@
       },
       "branch": "Colombo",
       "service": "Dry Cleaning",
-      "status": "Active"
+      "status": "Active",
+      "reference": "Ord_1"
     },
     {
       "id": "LK2",
@@ -18,7 +19,8 @@
       },
       "branch": "Kandy",
       "service": "Wash Only",
-      "status": "Active"
+      "status": "Active",
+      "reference": "Ord_2"
     },
     {
       "id": "LK3",
@@ -28,7 +30,8 @@
       },
       "branch": "Kandy",
       "service": "Dry Cleaning",
-      "status": "Delivered"
+      "status": "Delivered",
+      "reference": "Ord_3"
     },
     {
       "id": "LK4",
@@ -38,7 +41,8 @@
       },
       "branch": "Colombo",
       "service": "Dry Cleaning",
-      "status": "Active"
+      "status": "Active",
+      "reference": "Ord_4"
     },
     {
       "id": "LK5",
@@ -48,7 +52,8 @@
       },
       "branch": "Colombo",
       "service": "Wash Only",
-      "status": "Active"
+      "status": "Active",
+      "reference": "Ord_5"
     }
   ]
 }
