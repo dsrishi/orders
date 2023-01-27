@@ -10,7 +10,7 @@
   "products": [
     {
       "id": "001",
-      "name": "Colombo",
+      "name": "Gaming Headphones",
       "description": "Dry Cleaning",
       "price": 239.00,
       "status": "Available",
@@ -20,7 +20,7 @@
     },
     {
       "id": "002",
-      "name": "Colombo",
+      "name": "Macbook Pro 13in",
       "description": "Dry Cleaning",
       "price": 1099.00,
       "status": "Available",
@@ -30,7 +30,7 @@
     },
     {
       "id": "003",
-      "name": "Colombo",
+      "name": "Homepod Mini",
       "description": "Dry Cleaning",
       "price": 59.00,
       "status": "Available",
@@ -40,17 +40,17 @@
     },
     {
       "id": "004",
-      "name": "Colombo",
+      "name": "Laptop Sleeve MacBook",
       "description": "Dry Cleaning",
       "price": 67.00,
-      "status": "Available",
+      "status": "Out of stock",
       "rating": 4,
       "ratedBy": 321,
       "image": ""
     },
     {
       "id": "005",
-      "name": "Colombo",
+      "name": "i7s Airpods",
       "description": "Dry Cleaning",
       "price": 199.00,
       "status": "Available",
@@ -60,17 +60,17 @@
     },
     {
       "id": "006",
-      "name": "Colombo",
+      "name": "Wallets for Men",
       "description": "Dry Cleaning",
       "price": 52.00,
-      "status": "Available",
+      "status": "Out of stock",
       "rating": 4,
       "ratedBy": 72,
       "image": ""
     },
     {
       "id": "007",
-      "name": "Colombo",
+      "name": "Ladies Handbag",
       "description": "Dry Cleaning",
       "price": 240.00,
       "status": "Available",
@@ -80,7 +80,7 @@
     },
     {
       "id": "008",
-      "name": "Colombo",
+      "name": "Italian Male Footwear",
       "description": "Dry Cleaning",
       "price": 114.00,
       "status": "Available",
