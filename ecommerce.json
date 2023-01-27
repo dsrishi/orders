@@ -2,7 +2,7 @@
   "id": "001",
   "name": "e-commerce",
   "description": "",
-  "logo": "",
+  "logo": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/logo.png",
   "currency": {
      "type": "USD",
      "abb": "$"
@@ -16,7 +16,7 @@
       "status": "Available",
       "rating": 4,
       "ratedBy": 259,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/1.png"
     },
     {
       "id": "002",
@@ -26,7 +26,7 @@
       "status": "Available",
       "rating": 4,
       "ratedBy": 121,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/2.png"
     },
     {
       "id": "003",
@@ -36,7 +36,7 @@
       "status": "Available",
       "rating": 3,
       "ratedBy": 112,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/3.png"
     },
     {
       "id": "004",
@@ -46,7 +46,7 @@
       "status": "Out of stock",
       "rating": 4,
       "ratedBy": 321,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/4.png"
     },
     {
       "id": "005",
@@ -56,7 +56,7 @@
       "status": "Available",
       "rating": 4,
       "ratedBy": 52,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/5.png"
     },
     {
       "id": "006",
@@ -66,7 +66,7 @@
       "status": "Out of stock",
       "rating": 4,
       "ratedBy": 72,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/6.png"
     },
     {
       "id": "007",
@@ -76,7 +76,7 @@
       "status": "Available",
       "rating": 4,
       "ratedBy": 124,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/7.png"
     },
     {
       "id": "008",
@@ -86,7 +86,7 @@
       "status": "Available",
       "rating": 4,
       "ratedBy": 32,
-      "image": ""
+      "image": "https://upview-images.s3.ap-south-1.amazonaws.com/ecommerce-practical/8.png"
     },
   ]
 }
