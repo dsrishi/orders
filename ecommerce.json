@@ -1,0 +1,92 @@
+{
+  "id": "001",
+  "name": "",
+  "description": "",
+  "logo": "",
+  "currency": {
+     "type": "USD",
+     "abb": "$"
+  }
+  "products": [
+    {
+      "id": "001",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 239.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 259,
+      "image": ""
+    },
+    {
+      "id": "002",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 1099.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 121,
+      "image": ""
+    },
+    {
+      "id": "003",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 59.00,
+      "status": "Available",
+      "rating": 3,
+      "ratedBy": 112,
+      "image": ""
+    },
+    {
+      "id": "004",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 67.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 321,
+      "image": ""
+    },
+    {
+      "id": "005",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 199.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 52,
+      "image": ""
+    },
+    {
+      "id": "006",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 52.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 72,
+      "image": ""
+    },
+    {
+      "id": "007",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 240.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 124,
+      "image": ""
+    },
+    {
+      "id": "008",
+      "name": "Colombo",
+      "description": "Dry Cleaning",
+      "price": 114.00,
+      "status": "Available",
+      "rating": 4,
+      "ratedBy": 32,
+      "image": ""
+    },
+  ]
+}
