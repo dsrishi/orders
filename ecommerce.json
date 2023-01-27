@@ -1,6 +1,6 @@
 {
   "id": "001",
-  "name": "",
+  "name": "e-commerce",
   "description": "",
   "logo": "",
   "currency": {
@@ -11,7 +11,7 @@
     {
       "id": "001",
       "name": "Gaming Headphones",
-      "description": "Dry Cleaning",
+      "description": "4 Colors available",
       "price": 239.00,
       "status": "Available",
       "rating": 4,
@@ -21,7 +21,7 @@
     {
       "id": "002",
       "name": "Macbook Pro 13in",
-      "description": "Dry Cleaning",
+      "description": "256, 8 core GPU, 8GB",
       "price": 1099.00,
       "status": "Available",
       "rating": 4,
@@ -31,7 +31,7 @@
     {
       "id": "003",
       "name": "Homepod Mini",
-      "description": "Dry Cleaning",
+      "description": "5 Colors available",
       "price": 59.00,
       "status": "Available",
       "rating": 3,
@@ -41,7 +41,7 @@
     {
       "id": "004",
       "name": "Laptop Sleeve MacBook",
-      "description": "Dry Cleaning",
+      "description": "Organic cotton, fairtrade certified",
       "price": 67.00,
       "status": "Out of stock",
       "rating": 4,
@@ -51,7 +51,7 @@
     {
       "id": "005",
       "name": "i7s Airpods",
-      "description": "Dry Cleaning",
+      "description": "Full set with box and charging case",
       "price": 199.00,
       "status": "Available",
       "rating": 4,
@@ -61,7 +61,7 @@
     {
       "id": "006",
       "name": "Wallets for Men",
-      "description": "Dry Cleaning",
+      "description": "Pure leather, 100% waterproof",
       "price": 52.00,
       "status": "Out of stock",
       "rating": 4,
@@ -71,7 +71,7 @@
     {
       "id": "007",
       "name": "Ladies Handbag",
-      "description": "Dry Cleaning",
+      "description": "Fashion handbags simple large-capacity",
       "price": 240.00,
       "status": "Available",
       "rating": 4,
@@ -81,7 +81,7 @@
     {
       "id": "008",
       "name": "Italian Male Footwear",
-      "description": "Dry Cleaning",
+      "description": "Comfortable leather shoes for men",
       "price": 114.00,
       "status": "Available",
       "rating": 4,
